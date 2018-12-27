@@ -4,7 +4,7 @@
 
 # Normally please use the /V3   UF2 files to flash the dongle
 
-There are three vesion dongle : V1pcb, V2ex,V3), most of the dongle vesion is V3.
+There are three version dongle : V1pcb, V2ex,V3), most of the dongle version is V3.
 
 Another dongle PCB chip->[internal_Dongle](https://github.com/euclala/RCM-X86/tree/master/internalDongle)
 
